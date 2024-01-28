@@ -10,20 +10,11 @@ const Team = () => {
                     </div>
                     <div className="row g-5 ">
                         <div className="card " style={{ width: "30rem", marginRight: "15%", border:'AppWorkspace' }}>
-                            <img src="./image/vinay.jpg" className="  " alt="..." style={{borderRadius:"10rem", marginTop:"2rem"}} />
+                            <img src="./image/vasudha.jpg" className="  " alt="..." style={{borderRadius:"10rem", marginTop:"2rem"}} />
                             <div className="card-body">
                                 <div className="text-center py-4">
-                                    <h4 className="">Vinay Kumar</h4>
-                                    <p className="text-uppercase m-0">MERN Stack developer</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="card" style={{ width: "30rem" , border:'AppWorkspace'}}>
-                            <img src="./image/abhay.jpg" className="card-img-top" alt="..."  style={{borderRadius:"10rem", marginTop:"2rem"}}  />
-                            <div className="card-body">
-                                <div className="text-center py-4">
-                                    <h4 className="">Abhay Swarnkar</h4>
-                                    <p className="text-uppercase m-0">AI/ML developer</p>
+                                    <h4 className="">Vasudha Gokhale</h4>
+                                    <p className="text-uppercase m-0">Front developer</p>
                                 </div>
                             </div>
                         </div>
